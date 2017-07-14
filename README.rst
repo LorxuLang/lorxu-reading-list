@@ -33,6 +33,9 @@ Unification
 
 - `DPLL algorithm
   <https://en.wikipedia.org/wiki/DPLL_algorithm>`_
+  
+- `Unification
+  <https://en.wikipedia.org/wiki/Unification_%28computer_science%29>`_
 
 Type inference
 ==============
