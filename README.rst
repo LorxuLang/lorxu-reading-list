@@ -36,6 +36,12 @@ Unification
   
 - `Unification
   <https://en.wikipedia.org/wiki/Unification_%28computer_science%29>`_
+  
+Higher order logic programming
+------------------------------
+
+- `HOPES - Higher-Order Prolog with Extensional Semantics
+  <https://github.com/acharal/hopes>`_
 
 Type inference
 ==============
@@ -48,3 +54,12 @@ Cartesian product
 
 - `Type Inference Using the Cartesian Product Algorithm on a Dynamically Typed Language
   <http://stevehanov.ca/cs744_type_inference_project.pdf>`_
+
+General algorithms
+==================
+
+Graph/AST rewriting
+-------------------
+
+- `Jeff Erickson algorithms classes notes
+  <http://jeffe.cs.illinois.edu/teaching/algorithms/notes/18-graphs.pdf>`_
