@@ -16,6 +16,9 @@ Warren abstract machine
 General logic programming
 =========================
 
+- `Lucid Meets Prolog
+  <https://billwadge.wordpress.com/2015/11/20/lucid-meets-prolog/>`_
+
 MiniKanren
 ----------
 
@@ -40,8 +43,14 @@ Unification
 Higher order logic programming
 ------------------------------
 
+- `Higher-Order Unification and Matching
+  <http://www.lsv.fr/~dowek/Publi/unification.ps>`_
+
 - `HOPES - Higher-Order Prolog with Extensional Semantics
   <https://github.com/acharal/hopes>`_
+  
+- `Extensional Higher-Order Logic Programming
+  <https://repository.edulll.gr/edulll/retrieve/11437/3623_1.13_%CE%94%CE%97%CE%9C_10_8_13.pdf>`_
 
 Type inference
 ==============
