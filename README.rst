@@ -19,6 +19,11 @@ General logic programming
 - `Lucid Meets Prolog
   <https://billwadge.wordpress.com/2015/11/20/lucid-meets-prolog/>`_
 
+Prolog
+------
+- `The Art of Prolog
+  <http://www.cuceinetwork.net/archivos/prolog/The_Art_of_Prolog.pdf>`_
+
 MiniKanren
 ----------
 
