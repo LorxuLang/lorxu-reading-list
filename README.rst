@@ -77,3 +77,14 @@ Graph/AST rewriting
 
 - `Jeff Erickson algorithms classes notes
   <http://jeffe.cs.illinois.edu/teaching/algorithms/notes/18-graphs.pdf>`_
+  
+  
+Implementations
+===============
+
+FFI
+---
+
+- Lever:
+   - https://github.com/cheery/lever/tree/master/runtime/stdlib/ffi
+   - https://github.com/cheery/lever/blob/master/runtime/stdlib/api.py
