@@ -23,6 +23,8 @@ Prolog
 ------
 - `The Art of Prolog
   <http://www.cuceinetwork.net/archivos/prolog/The_Art_of_Prolog.pdf>`_
+- `Constraint Handling Rules
+  <https://dtai.cs.kuleuven.be/CHR/files/tutorial_iclp2008.pdf>`_
 
 MiniKanren
 ----------
