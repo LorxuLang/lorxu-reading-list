@@ -19,6 +19,12 @@ General logic programming
 - `Lucid Meets Prolog
   <https://billwadge.wordpress.com/2015/11/20/lucid-meets-prolog/>`_
 
+- `Backtracking, Interleaving, and Terminating Monad Transformers
+  <http://okmij.org/ftp/papers/LogicT.pdf>`_
+  
+- `μKanren: a minimal functional core for logic programming
+  <http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf>`_
+
 Prolog
 ------
 - `The Art of Prolog
